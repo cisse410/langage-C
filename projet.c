@@ -51,7 +51,7 @@ int main()
 		switch(choix)
 		{
 			case 1:
-						printf("\t\t\t\t    * =============================== *\n");
+					printf("\t\t\t\t    * =============================== *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
         				printf("\t\t\t\t*   |   *       EXERCICE 01       *   |   *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
@@ -104,7 +104,7 @@ int main()
 						}
 					break;
 			case 2:
-						printf("\t\t\t\t    * =============================== *\n");
+					printf("\t\t\t\t    * =============================== *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
         				printf("\t\t\t\t*   |   *       EXERCICE 12       *   |   *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
@@ -122,7 +122,7 @@ int main()
 						printf("Apres permutation, a = %d et b = %d",nombre1,nombre2);
 					break;
 			case 3:
-						printf("\t\t\t\t    * =============================== *\n");
+					printf("\t\t\t\t    * =============================== *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
         				printf("\t\t\t\t*   |   *       EXERCICE 13       *   |   *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
@@ -144,7 +144,7 @@ int main()
 
 					break;
 			case 4:
-						printf("\t\t\t\t    * =============================== *\n");
+					printf("\t\t\t\t    * =============================== *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
         				printf("\t\t\t\t*   |   *       EXERCICE 14       *   |   *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
@@ -162,7 +162,7 @@ int main()
 						printf("Le nombre de radiateur est de %.2f",nombre_de_radiateur);
 					break;
 			case 5:
-						printf("\t\t\t\t    * =============================== *\n");
+					printf("\t\t\t\t    * =============================== *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
         				printf("\t\t\t\t*   |   *       EXERCICE 15       *   |   *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
@@ -178,7 +178,7 @@ int main()
 					printf("Le prix tout taxe comprise est de %.2f",prix_ttc);
 					break;
 			case 6:
-						printf("\t\t\t\t    * =============================== *\n");
+					printf("\t\t\t\t    * =============================== *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
         				printf("\t\t\t\t*   |   *       EXERCICE 16       *   |   *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
@@ -190,7 +190,7 @@ int main()
 					printf("L'image de la fonction f(x) = x^2-8x+7 est de: %.2f avec x= %.2f",f_x,x);
 					break;
 			case 7:
-						printf("\t\t\t\t    * =============================== *\n");
+					printf("\t\t\t\t    * =============================== *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
         				printf("\t\t\t\t*   |   *       EXERCICE 02       *   |   *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
@@ -205,7 +205,7 @@ int main()
 						printf("La valeur absolue de %d est %d",nombre,-nombre);
 					break;
 			case 8:
-						printf("\t\t\t\t    * =============================== *\n");
+					printf("\t\t\t\t    * =============================== *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
         				printf("\t\t\t\t*   |   *       EXERCICE 03       *   |   *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
@@ -220,7 +220,7 @@ int main()
 						printf("%d n'est pas un nombre divisible qui est par 3",nombre_entier);
 					break;
 			case 9:
-						printf("\t\t\t\t    * =============================== *\n");
+					printf("\t\t\t\t    * =============================== *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
         				printf("\t\t\t\t*   |   *       EXERCICE 04       *   |   *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
@@ -238,7 +238,7 @@ int main()
 						printf("Le nombre saisi est nul");
 					break;
 			case 10:
-						printf("\t\t\t\t    * =============================== *\n");
+					printf("\t\t\t\t    * =============================== *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
         				printf("\t\t\t\t*   |   *       EXERCICE 05       *   |   *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
@@ -270,7 +270,7 @@ int main()
 						printf("L'equation n'admet pas de solution reelles");
 					break;
 			case 11:
-						printf("\t\t\t\t    * =============================== *\n");
+					printf("\t\t\t\t    * =============================== *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
         				printf("\t\t\t\t*   |   *       EXERCICE 06       *   |   *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
@@ -286,7 +286,7 @@ int main()
 						printf("Le produit des ces deux nombres est negatif");
 					break;
 			case 12:
-						printf("\t\t\t\t    * =============================== *\n");
+					printf("\t\t\t\t    * =============================== *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
         				printf("\t\t\t\t*   |   *       EXERCICE 07       *   |   *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
@@ -319,7 +319,7 @@ int main()
 					printf("Le prix total a payer est de %.2f\n",PAP);
 					break;
 			case 13:
-						printf("\t\t\t\t    * =============================== *\n");
+					printf("\t\t\t\t    * =============================== *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
         				printf("\t\t\t\t*   |   *       EXERCICE 08       *   |   *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
@@ -364,7 +364,7 @@ int main()
 					break;
 						break;
 			case 14:
-						printf("\t\t\t\t    * =============================== *\n");
+					printf("\t\t\t\t    * =============================== *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
         				printf("\t\t\t\t*   |   *       EXERCICE 09       *   |   *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
@@ -385,7 +385,7 @@ int main()
 						printf("Le produit est %d",produit);
 					break;
 			case 15:
-						printf("\t\t\t\t    * =============================== *\n");
+					printf("\t\t\t\t    * =============================== *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
         				printf("\t\t\t\t*   |   *       EXERCICE 10       *   |   *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
@@ -405,7 +405,7 @@ int main()
 					printf("Le PGDC des deux nombres saisis est %d",nombre1);
 					break;
 			case 16:
-						printf("\t\t\t\t    * =============================== *\n");
+					printf("\t\t\t\t    * =============================== *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
         				printf("\t\t\t\t*   |   *       EXERCICE 11       *   |   *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
@@ -422,7 +422,7 @@ int main()
 					}while(nombre < 10 || nombre >20);
 					break;
 			case 17:
-						printf("\t\t\t\t    * =============================== *\n");
+					printf("\t\t\t\t    * =============================== *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
         				printf("\t\t\t\t*   |   *       EXERCICE 12       *   |   *\n");
         				printf("\t\t\t\t  * | *                             * | *\n");
@@ -443,7 +443,7 @@ int main()
 					printf("La moyenne des notes saisie  est %.2f\n",moyenne);
 					break;
 			case 18:
-						printf("\t\t\t\t ===================================\n");
+					printf("\t\t\t\t ===================================\n");
         				printf("\t\t\t\t |                                 |\n");
         				printf("\t\t\t\t |   AU REVOIR ET A LA PROCHAINE   |\n");
         				printf("\t\t\t\t |       CISSE 410 LGI1 UIDT       |\n");
